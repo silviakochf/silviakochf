@@ -15,10 +15,6 @@ Sou estudante de Ciência da Computação na UNISUL e atuo como estagiária no s
 ![GitHub](https://skillicons.dev/icons?i=github)
 ![VSCode](https://skillicons.dev/icons?i=vscode)
 
-## 📊 Estatísticas do GitHub
-
-![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=silviakochf&show_icons=true&theme=default)
-![Linguagens mais usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=silviakochf&layout=compact)
 
 ## 🤝 Como me encontrar
 
