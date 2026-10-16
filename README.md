@@ -19,4 +19,6 @@ Sou estudante de Ciência da Computação na UNISUL e atuo como estagiária no s
 ## 🤝 Como me encontrar
 
 
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:silviakochf@gmail.com)
+<a href="mailto:silviakochf@gmail.com" target="_blank">
+  <img src="https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
+</a>
